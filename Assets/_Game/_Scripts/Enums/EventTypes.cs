@@ -1,0 +1,26 @@
+public enum EventTypes
+{
+	//LevelStart,
+	//LevelFinish,
+	PlayerReachedEnd,
+	PlayerDied,
+	PlayerHappy,
+    LevelStart,
+    LevelFail,
+    LevelSuccess,
+    LevelFinish,
+    LevelRestart,
+    LoadSceneStart,
+    LoadSceneFinish,
+    ProgressChange,
+    VibrationChange,
+    CurrencyEarned,
+    CurrencySpent,
+    BoughtItem,
+    LevelLoaded,
+    OnStationary,
+    OnHoldStart,
+    OnHoldFinish,
+    LoadNextScene,
+    LoadCurrentScene
+}

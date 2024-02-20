@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab56d34f935a47ac901270e323e8d75f, type: 3}
+  m_Name: HammerConfig
+  m_EditorClassIdentifier: 
+  _usercentrics_settingsId: VkVccBLKJsueFF
+  _usercentrics_isGeoRuleset: 0
+  _usercentrics_debugMode:
+    <Key>k__BackingField: usercentrics_debugMode
+    <Value>k__BackingField: 0
+  _adjust_appToken: 
+  _adjust_firstLaunchEventToken: 
+  _adjust_debugMode:
+    <Key>k__BackingField: adjust_debugMode
+    <Value>k__BackingField: 0
+  _appsflyer_devKey: ejkHPrkeKKgS8zGHb3mh5g
+  _appsflyer_iosAppId: 
+  _appsflyer_getConversionData:
+    <Key>k__BackingField: _appsflyer_getConversionData
+    <Value>k__BackingField: 1
+  _appsflyer_debugMode:
+    <Key>k__BackingField: _appsflyer_debugMode
+    <Value>k__BackingField: 0
+  _ironsource_appKeyAndroid: 
+  _ironsource_appKeyIos: 
+  _ironsource_enableAdmob: 0
+  _ironsource_admobAppIdAndroid: 
+  _ironsource_admobAppIdIos: 
+  _firebase_googleServicesJson: "{\n  \"project_info\": {\n    \"project_number\":
+    \"655532527731\",\n    \"project_id\": \"com-orhancetin-smoothiesmash\",\n   
+    \"storage_bucket\": \"com-orhancetin-smoothiesmash.appspot.com\"\n  },\n  \"client\":
+    [\n    {\n      \"client_info\": {\n        \"mobilesdk_app_id\": \"1:655532527731:android:1ca7bc24120f2c3bd99a06\",\n       
+    \"android_client_info\": {\n          \"package_name\": \"com.orhancetin.smoothiesmash\"\n       
+    }\n      },\n      \"oauth_client\": [\n        {\n          \"client_id\": \"655532527731-39mnpq1fr1qtn0vrsluoqhkgtdpkti49.apps.googleusercontent.com\",\n         
+    \"client_type\": 3\n        }\n      ],\n      \"api_key\": [\n        {\n         
+    \"current_key\": \"AIzaSyCLJ1kf813iiUsTbUUue0l_xK9Y3_wTk-8\"\n        }\n     
+    ],\n      \"services\": {\n        \"appinvite_service\": {\n          \"other_platform_oauth_client\":
+    [\n            {\n              \"client_id\": \"655532527731-39mnpq1fr1qtn0vrsluoqhkgtdpkti49.apps.googleusercontent.com\",\n             
+    \"client_type\": 3\n            }\n          ]\n        }\n      }\n    }\n 
+    ],\n  \"configuration_version\": \"1\"\n}"
+  _firebase_googleServicesPlist: 
+  _gameanalytics_androidSecretKey: 770f30d03e96fd257c06a87f5428cc90e928585e
+  _gameanalytics_androidGameKey: 29297fd00ac20448d1bfe7b971a77e62
+  _gameanalytics_iosSecretKey: 
+  _gameanalytics_iosGameKey: 
+  _maxsdk_adUnitIosRewarded: 
+  _maxsdk_adUnitIosInterstitial: 
+  _maxsdk_adUnitIosBanner: 
+  _maxsdk_adUnitAndroidRewarded: 444a66725a7b5bd6
+  _maxsdk_adUnitAndroidInterstitial: 293ca5e17725361d
+  _maxsdk_adUnitAndroidBanner: b3f91b51b23d1931
+  _maxsdk_applovinSdkKey: ZnJfm31gxzofc2REFf4dQ_xTmID0LXbxSQVFUSkzCDsXdKOP2w8tTECmNcQc4n4z0AQSbXqMH_KxsHdoz49SpD
+  _maxsdk_enableAdmob: 1
+  _maxsdk_admobAppIdAndroid: ca-app-pub-3555124779011239~9272167704
+  _maxsdk_admobAppIdIos: ca-app-pub-3555124779011239~9459869963
+  _facebook_appName: Smoothie Smash
+  _facebook_clientToken: e885c5bb2240a2ce9c81122d65b82fef
+  _facebook_appId: 1664411667358404

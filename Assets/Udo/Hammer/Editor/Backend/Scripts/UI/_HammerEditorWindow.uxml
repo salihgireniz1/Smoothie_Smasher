@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements"
+         xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements"
+         noNamespaceSchemaLocation="../../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Udo/Hammer/Editor/Backend/Scripts/UI/_HammerEditorWindow.uss?fileID=7433441132597879392&amp;guid=65c8ad4393365444ea1814aa4435d981&amp;type=3#_HammerEditorWindow"/>
+    <ui:TextField picking-mode="Ignore" label="Game ID" name="udo-text-gameId"/>
+    <ui:Button text="Synchronize Files" display-tooltip-when-elided="true" name="udo-button-syncFile"/>
+    <ui:Button text="Synchronize Configuration" display-tooltip-when-elided="true" name="udo-button-syncConfig"/>
+    <ui:Toggle label="Create Zips" name="udo-toggle-createZips"/>
+    <ui:TextField picking-mode="Ignore" label="Password" password="true" mask-character="*" name="udo-text-password"/>
+    <ui:TextField picking-mode="Ignore" label="Username" name="udo-text-email"/>
+</ui:UXML>

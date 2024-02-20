@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e6f98780a847d7a1c78507d9c646f9, type: 3}
+  m_Name: _HammerConfig
+  m_EditorClassIdentifier: 
+  email: tech@udogames.com
+  password: Udo7Tech7!
+  gameId: ac6227ed-34ab-4c0c-8fbd-bdcc06d73fcb
+  createZips: 0
+  shouldUpdateRuntime: 0
+  timeSyncFileString: Tuesday, August 8, 2023 3:26:36 PM
+  timeSyncConfigString: Tuesday, August 8, 2023 3:31:00 PM

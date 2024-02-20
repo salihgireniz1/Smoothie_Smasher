@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655532527731",
+    "project_id": "com-orhancetin-smoothiesmash",
+    "storage_bucket": "com-orhancetin-smoothiesmash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655532527731:android:1ca7bc24120f2c3bd99a06",
+        "android_client_info": {
+          "package_name": "com.orhancetin.smoothiesmash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655532527731-39mnpq1fr1qtn0vrsluoqhkgtdpkti49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJ1kf813iiUsTbUUue0l_xK9Y3_wTk-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655532527731-39mnpq1fr1qtn0vrsluoqhkgtdpkti49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

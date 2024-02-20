@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4110513613435884770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4110513613435884769}
+  - component: {fileID: 4110513613435884768}
+  m_Layer: 0
+  m_Name: Pool Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4110513613435884769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4110513613435884770}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4110513613435884768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4110513613435884770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d23bf2b355a939343af605b0c80d58f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolableObjects:
+  - {fileID: 2727301962715779477, guid: cd12a2d7527b85544a789c0585517ba7, type: 3}
+  - {fileID: 4789934190772994141, guid: e4b9f31d1f3b8374aa389f7dbcf4d661, type: 3}
+  - {fileID: 1133513163953749785, guid: 4554e3adda3d07f4d95df3766e27e1b3, type: 3}
+  - {fileID: 6304529684454497521, guid: dbcfc0755465d2f42ae65f452e99446a, type: 3}
+  - {fileID: 4103574855733712932, guid: f16c6779a5bf1db4e943dab8b1e540a4, type: 3}
+  - {fileID: 4811417685995188793, guid: 188a0a81d33e7aa459063d3653a36c8e, type: 3}
+  - {fileID: 174913342718067161, guid: efa86642e7b7d364492b35931b2e1eb6, type: 3}
+  - {fileID: 6379683451706889229, guid: ef971ee9f3dfc6243a7a3eea4314a8b3, type: 3}
+  - {fileID: 3237719444746488863, guid: df572e62959c5284a834e67065dd0abf, type: 3}
+  - {fileID: 122866510736061834, guid: d068e57581bf4d44484b6140141860a4, type: 3}
+  - {fileID: 8083054537858006192, guid: 7de6e029a358b3547a0c2cbe45c69eda, type: 3}
+  - {fileID: 3294469725955953830, guid: 4ddca31d437553f45a40680bd3120285, type: 3}
+  - {fileID: 2679219395932484959, guid: 2ea3a64cbb294f548834380035bd2b0c, type: 3}
+  - {fileID: 3696664604283557680, guid: c7866ff652228d640a720963f7625199, type: 3}
+  - {fileID: 6070739716036835684, guid: caa08fe585e8ca24bb44675e05687d0a, type: 3}
+  - {fileID: 810731509422035083, guid: 77df417a58ea47d4da980ba2d72ccba6, type: 3}
+  - {fileID: 377060301646557442, guid: ae8618559afb5614794def49bd943829, type: 3}
+  - {fileID: 6617702234992687164, guid: 7be8c01ac779b9047a81c83317ebbbbe, type: 3}
+  - {fileID: 270863548295164493, guid: 92aee2bbcee51334e8e7a4c40a53f78b, type: 3}
+  - {fileID: 1288058042410122646, guid: dabcb3b2aa850a94c9e25a18bb86a0f6, type: 3}
+  - {fileID: 4752293970776798732, guid: 49f84402c946b094d83244ac6d442510, type: 3}
+  - {fileID: 4752293970776798732, guid: 6112268267b71481ba62eaa7d048c632, type: 3}
+  - {fileID: 4752293970776798732, guid: ddc80c8cd502b6d4d85a4293efe82e80, type: 3}
+  - {fileID: 4752293970776798732, guid: 2316af48f1806476f90d3f6d6aee4968, type: 3}
+  - {fileID: 4752293970776798732, guid: f38fe0a1a9dcc46de8056fd4c4c10301, type: 3}
+  - {fileID: 4752293970776798732, guid: 7efd4e95381914ccaa98f92d8ad57c05, type: 3}
+  - {fileID: 4752293970776798732, guid: 137256148b8ffbb438fb54f73809c25a, type: 3}
+  - {fileID: 94366934851025732, guid: 5e64f3d65fc9baf4b9468b957918805f, type: 3}
+  - {fileID: 94366934851025732, guid: 84c03df475ceabd4d87ddd29702198bd, type: 3}
+  - {fileID: 94366934851025732, guid: 482eb87e83296f641aa35f003835d872, type: 3}
+  - {fileID: 94366934851025732, guid: e6b96e52401ad40ed85a3872133c8dca, type: 3}
+  - {fileID: 94366934851025732, guid: 2583b3ae4328a49238b32becde1d32e9, type: 3}
+  - {fileID: 94366934851025732, guid: f9acb7890df16ac4983e2a4277f08c73, type: 3}
+  - {fileID: 94366934851025732, guid: c977e70a3218eef4c846e321c8b06d5f, type: 3}
+  poolSize: 30
